@@ -11,6 +11,8 @@ For now, this script remaps some of the `FX` keys to the volume and playback med
 - `F11` maps to the decrease volume media key.
 - `F12` maps to the increase volume media key.
 
+The above mappings only applies to Leopold FC660C mechanical keyboards. Mappings for other mechanical keyboards can be added in the future.
+
 ## Installation
 
 Clone this repo:
