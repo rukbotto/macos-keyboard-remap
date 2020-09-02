@@ -2,14 +2,14 @@
 
 Script for remapping keyboard keys on macOS.
 
-For now, this script remaps some of the FX keys to the volume and playback media keys, simulating the apple keyboard media keys.
+For now, this script remaps some of the `FX` keys to the volume and playback media keys, simulating the apple keyboard media keys:
 
-- F7 maps to the previous track media key.
-- F8 maps to the play/pause media key.
-- F9 maps to the next track media key.
-- F10 maps to the mute media key.
-- F11 maps to the decrease volume media key.
-- F12 maps to the increase volume media key.
+- `F7` maps to the previous track media key.
+- `F8` maps to the play/pause media key.
+- `F9` maps to the next track media key.
+- `F10` maps to the mute media key.
+- `F11` maps to the decrease volume media key.
+- `F12` maps to the increase volume media key.
 
 ## Installation
 
